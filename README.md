@@ -11,3 +11,9 @@
 #### (8) Testing
 #### (9) Post processesing
 #### (10) Statistics, analysis, and Figure
+
+### The labeled imamges used in this study is provided in Folders (labeled images), including,
+
+#### （1）GF-2 PMS images
+#### （2）labeled images
+#### （3）mask images
