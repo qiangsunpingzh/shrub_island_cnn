@@ -14,6 +14,9 @@
 
 ### The labeled imamges used in this study is provided in Folders (labeled images), including,
 
-#### （1）GF-2 PMS images
-#### （2）labeled images
-#### （3）mask images
+#### (1) GF-2 PMS images
+#####    This folder includes five GF-2 PMS remote sensing images. 
+#### (2) labeled images
+#####    This folder includes five labeled images at the same scale of GF-2 PMS images.
+#### (3) mask images
+#####    This folder includes five mask images 
